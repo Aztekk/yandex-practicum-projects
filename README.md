@@ -12,5 +12,5 @@
 # Учебные проекты
 
 | Название проекта | Описание проекта | Навыки и инструменты |
-| :---------------------- | :---------------------- | :---------------------- | :---------------------- |
+| :---------------------- | :---------------------- | :---------------------- |
 | [Исследование объявлений о продаже квартир](https://github.com/Aztekk/yandex-practicum-projects/blob/main/flats.ipynb) | исследовательский анализ данных. Построить систему выявления и очистки данных от аномалий, определить рыночную стоимость жилья, найти факторы, влияющие на неё;| <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/> <img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />|
